@@ -27,7 +27,7 @@
     "jsdoc": "3.4.0",
     "jsdoc-to-markdown": "1.3.9",
     "karma": "0.12.16",
-    "karma-cordova-launcher": "0.0.9",
+    "karma-cordova-launcher": "0.0.10",
     "xml2js": "0.4.17"
   },
   "cordova": {
